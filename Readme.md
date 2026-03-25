@@ -93,7 +93,7 @@ The trained models are then compared with ensemble models trained by nnUNet usin
 </p>
 
 <p align="center">
-  <img src="imgs/evaluation_amos.png" width="800" alt="Description">
+  <img src="imgs/evaluation_amos.png" width="650" alt="Description">
 </p>
 
 ## Training time analysis:
